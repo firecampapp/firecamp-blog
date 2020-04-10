@@ -1,34 +1,34 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
+    title: `Firecamp, A campsite for developers`,
+    name: `Firecamp`,
     siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `Execute and build the APIs of your choice [HTTP, WS, GraphQL]`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Everything about APIs space`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/FirecampHQ`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/firecampapp`,
       },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
-      },
+      // {
+      //   name: `instagram`,
+      //   url: `https://instagram.com/narative.co`,
+      // },
+      // {
+      //   name: `linkedin`,
+      //   url: `https://www.linkedin.com/company/narative/`,
+      // },
+      // {
+      //   name: `dribbble`,
+      //   url: `https://dribbble.com/narativestudio`,
+      // },
     ],
   },
   plugins: [
