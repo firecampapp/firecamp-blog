@@ -2,7 +2,7 @@
 title: How to import an OpenAPI specification project in Firecamp 
 author: Vaibhav Khulbe
 date: 2020-04-28
-  hero: 
+hero: ./images/hero.jpg
 excerpt: We, as developers, testers or QA engineers need a tool from which we can do all things about APIs.
 ---
 
