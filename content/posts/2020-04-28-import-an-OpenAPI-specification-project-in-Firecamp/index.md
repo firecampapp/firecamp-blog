@@ -29,7 +29,7 @@ As of writing this, the OAS is at version `3.0.3` and all of its source code is 
 
 <div className="Image__Small">
   <img
-    src="./images/Firecamp .jpg"
+    src="./images/Firecamp.jpg"
     title="Firecamp initial screen"
     alt="Firecamp image"
   />
