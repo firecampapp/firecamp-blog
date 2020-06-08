@@ -48,8 +48,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Firecamp blog`,
+        short_name: `Firecamp blog`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
