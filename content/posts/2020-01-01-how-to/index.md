@@ -1,8 +1,9 @@
 ---
-title: My first post using Novela by Narative
-author: Dennis Brotzky
-date: 2019-04-30
+title: how-to
+author: Nishchit Dhanani
+date: 2020-06-01
 hero: ./images/hero.jpg
+secret: true
 excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
 ---
 

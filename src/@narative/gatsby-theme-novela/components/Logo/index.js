@@ -20,6 +20,6 @@ import React from 'react';
 export default function Logo({ fill }) {
 
     return (
-        <img src="/full-logo.png" width="300px"/>
+        <img src="/full-logo.png" width="300px" alt="Firecamp"/>
     )
   }

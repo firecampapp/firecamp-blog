@@ -6,7 +6,7 @@ module.exports = {
     description: `Execute and build the APIs of your choice [HTTP, WS, GraphQL]`,
     hero: {
       heading: `Everything about APIs space`,
-      maxWidth: 652,
+      maxWidth: 1200,
     },
     social: [
       {

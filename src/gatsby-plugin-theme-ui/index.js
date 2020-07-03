@@ -11,4 +11,8 @@ export default {
     grey: '#73737D',
     background: '#fff',
   },
+  fonts: {
+    ...theme.fonts,
+    serif: "'Rajdhani'"
+  }
 };
