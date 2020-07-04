@@ -2,7 +2,7 @@
 title: Preview of GraphQL Playground
 author: Nishchit Dhanani
 date: '2020-03-07'
-hero: ./images/hero.jpg
+hero: ../default-hero.jpg
 excerpt: It's been 2 months of Firecamp's GraphQL playground launching, throughout this time I have been discussing with so many folks about their GraphQL usage and experience with Playground. 
 ---
 It's been 2 months of [Firecamp's GraphQL playground launching](https://firecamp.app/graphql), throughout this time I have been discussing with so many folks about their GraphQL usage and experience with Playground. 
