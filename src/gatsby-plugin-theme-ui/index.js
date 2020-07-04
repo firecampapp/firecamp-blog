@@ -13,6 +13,8 @@ export default {
   },
   fonts: {
     ...theme.fonts,
-    serif: "'Rajdhani'"
+    serif: "'Rajdhani'",
+    sansSerif: "Lato"
+
   }
 };
