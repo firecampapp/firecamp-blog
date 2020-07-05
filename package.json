@@ -8,6 +8,7 @@
     "dev": "gatsby develop",
     "clean": "gatsby clean",
     "proxy": "netlify-cms-proxy-server",
+    "deploy:dev": "yarn clean && yarn build && ntl deploy -d public",
     "deploy": "yarn clean && yarn build && ntl deploy -d public --prod"
   },
   "dependencies": {
