@@ -3,7 +3,7 @@ title: Introducing a DX driven WebSocket Client
 author: Nishchit Dhanani
 date: '2020-07-04'
 hero: ./images/ws-hero.png
-excerpt: cooking
+excerpt: Introucing the most complete collaborative WebSocket GUI client. The new version of WS client in Firecamp allows developers to test all kind of messages like Text, Binary, File etc.
 secret: false
 ---
 
