@@ -2,7 +2,7 @@
 title: Introducing a DX driven WebSocket Client
 author: Nishchit Dhanani
 date: '2020-07-04'
-hero: ../default-hero.jpg
+hero: ./images/ws-hero.png
 excerpt: cooking
 secret: false
 ---
