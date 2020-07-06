@@ -7,6 +7,8 @@ excerpt: Introucing the most complete collaborative WebSocket GUI client. The ne
 secret: false
 ---
 
+import YouTube from "react-youtube";
+
 ### Introduction
 Firecamp is introducing the improved version of WebSocket testing client with more developer freindly features and utilities which make it's a most complete tesing pad for WebSocket events. WebSocket client was introduced last year in Firecamp with basic teasing capabilities like sending message and monitoring the respose events from server. 
 
@@ -49,28 +51,38 @@ It'll let you build and prepare for all available messages type which WebSocket 
 - ArrayBuffer
 - ArrayBufferView
 
-Todo: GIF
+<div className="Image__Small">
+  <YouTube videoId="KHXvyEI6jEs"/>
+</div>
 
 #### 2. Message Collection [Folders and Messages]
 It allows you to create your own message collection, you can arrange or save messages in specific folder with it's configuration. 
 It'll be in-sync and accessible through out within your team. It enables the quickest way to send message directly from saved message.
 
-Todo: GIF
+<div className="Image__Small">
+  <YouTube videoId="bjLeA99lwxg"/>
+</div>
 
 #### 3. Multiple connection
 You can create virtual client connections as many as you want. No need to open multiple request tab and connect them invidually but you can just create multiple connection as show in below gif by assigning connection names like `Alice`, `Bob` and send/receive messages from right side response panel's tab.
 
-Todo: GIF
+<div className="Image__Small">
+  <YouTube videoId="Oouju8grfio"/>
+</div>
 
 #### 4.WebSocket Configuration
 This section allows you to set connection specific configuration like `Auto Reconnect`, `Protocols`, `Origin`, `Max Payload` etc. 
 
-Todo: GIF
+<div className="Image__Small">
+  <img src="https://raw.githubusercontent.com/firecampapp/firecamp-doc/ws-v2-doc/source/websocket/assets/websocket-configuration.png" alt="WebSocket Configuration" />
+</div>
 
 #### 5. History
 Every message sent from message-playground in WebSocket client will get added in the History. You can just click on that specific payload in History and WS request-tab will get opened quickly with pre-configuration which that history holds. just click on send button to send the same message.
 
-Todo: GIF
+<div className="Image__Small">
+  <YouTube videoId="vRMG8ky56r4"/>
+</div>
 
 #### 6. Code generation
 This feature auto generates code-snippets for different langauges (javascipt, c++, java, ...) from your message-collection. You or your team members can easily use this auto generated snippets in your codebase.
